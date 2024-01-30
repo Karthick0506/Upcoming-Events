@@ -1,0 +1,11 @@
+<html>
+    <head>
+    <title> ajith </title>
+   
+<body>
+    name :<input type ="text" id = "tbname"> <br>
+    password :<input type ="text" id = "tdpwd">
+    <input type ="button">
+</body>
+    </head>
+</html>
